@@ -67,4 +67,4 @@ python generate_solar_terms_ics.py
 
 ## License
 
-MIT
+[MIT License](LICENSE)
