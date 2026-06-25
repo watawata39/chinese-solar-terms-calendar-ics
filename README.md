@@ -10,11 +10,11 @@ https://watawata39.github.io/chinese-solar-terms-calendar-ics/solar_terms_2000_2
 
 ---
 
-## 支持范围
+## 详情
 
-- 二十四节气
-- 时间范围：2000 年 - 2100 年
-- 全天事件（All-day Events）
+- ics包含：二十四节气
+- 时间范围：2000 - 2100
+- 全天事件
 - 兼容 Apple Calendar / Google Calendar / Outlook 等支持 `.ics` 订阅的日历应用
 
 ---
